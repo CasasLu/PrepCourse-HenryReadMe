@@ -1,2 +1,2 @@
-# PrepCourse-HenryReadMe
-Repositorio   de  prueba  con readme
+este es un ejercicio de como crear un  repositoriotyclonarlo a mi pcdesde github
+
